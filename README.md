@@ -1,10 +1,10 @@
 # 📊 Excelerate Internship Project – SLU Opportunity Data Analysis
 
-This repository contains the code and analysis I completed during my internship at **Excelerate**, focused on cleaning, transforming, and enriching a real-world dataset related to student opportunities.
+This repository contains the code and analysis I completed during my internship at **Excelerate**, focused on cleaning, transforming, and enriching a real-world dataset related to student opportunities. The internship encompassed of 4 weeks where each week a data oriented task was performed.
 
 ## 📁 Project Overview
 
-The notebook demonstrates the **end-to-end data processing pipeline** applied to the **SLU Opportunity Wise dataset**, including:
+The notebook demonstrates the **end-to-end data processing pipeline** applied to the **Saint Louis University Opportunity Wise dataset**, including:
 
 ## 🚀 Key Tasks Completed
 
