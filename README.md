@@ -1,76 +1,95 @@
-# 📊 Excelerate Internship Project – SLU Opportunity Data Analysis
+<h1 align="center">📊 Excelerate AI-Powered Data Analysis Internship – May–June 2025 📊</h1>
 
-This repository contains the code and analysis I completed during my internship at **Excelerate**, focused on cleaning, transforming, and enriching a real-world dataset related to student opportunities. The internship encompassed of 4 weeks where each week a data oriented task was performed.
-
-## 📁 Project Overview
-
-The notebook demonstrates the **end-to-end data processing pipeline** applied to the **Saint Louis University Opportunity Wise dataset**, including:
-
-## 🚀 Key Tasks Completed
-
-### ✅ Data Cleaning
-- Filled missing values in fields like `Institution Name` and `Apply Date`
-- Coerced invalid date formats into `NaT` safely
-- Standardized formats for:
-  - Gender (`M`, `F`, `female` → `Male`, `Female`, etc.)
-  - Strings (title case, stripped spaces)
-  - Institutions (e.g., “St. Louis” → “Saint Louis”)
-
-### ✅ Feature Engineering
-- **Age** (calculated from `Date of Birth`)
-- **Engagement Duration** = `Apply Date` − `Opportunity Start Date`
-- **Time in Opportunity** = `Opportunity End Date` − `Opportunity Start Date`
-- **Signup Month** and **Signup Year** (extracted from datetime)
-- **Gender Binary Encoding**: `Male` = 1, `Female` = 0, `Other` = -1
-- **MinMax Normalization** of numerical features
-
-### ✅ Exploratory Data Analysis (EDA)
-- Visualized distribution of key features such as age, engagement duration, and signup trends.
-- Analyzed time-based patterns (e.g., signups by month/year).
-- Identified correlations between user demographics and application timing.
-- Detected outliers and inconsistencies using box plots and scatter plots.
-- Assessed class imbalance and data quality for predictive readiness.
-  
-### ✅ Predictive Modeling
-
-- Built supervised learning models to predict user drop-off or completion.
-- Trained models using logistic regression and evaluated with precision, recall, F1-score, and AUC.
-- Handled imbalanced data using stratified sampling and/or class weights.
-- Performed feature selection and importance ranking using model coefficients.
-- Validated model performance using cross-validation and confusion matrix.
-
-### ✅ Recommendation System 
-
-- Designed a simple rule-based recommendation system to suggest relevant opportunities to users based on their demographics and engagement patterns.
-- Clustered users with similar behaviors using KMeans (optional: or used collaborative filtering if applicable).
-- Created matching logic between student profiles and opportunity characteristics.
-- Evaluated system precision by comparing historical outcomes and suggested matches.
-
-
-## 🧰 Tech Stack
-
-- **Python**
-- **Jupyter Notebook**
-- **Pandas**
-- **NumPy**
-- **scikit-learn** (for preprocessing)
+<p align="center">
+  <i>End-to-end data science experience – from raw data to churn modeling and retention strategies as Team E's Team Lead</i>
+</p>
 
 ---
 
-## 📂 Files in This Repository
+## 📘 Overview
 
-| File Name                             | Description                                      |
-|--------------------------------------|--------------------------------------------------|
-| `excelerate internship codfile.ipynb` | Main notebook with full data cleaning and feature engineering , ML mddel training and testing and building a simple recommendation system. |
-| `README.md`                          | Project overview and documentation (this file)   |
+Welcome to the repository for my **AI-Powered Data Analysis Internship** with **Excelerate**, held from May to June 2025. I served as the **Project Lead** of **Team E**, working with my brilliant teammates **Diya** and **Faith**, and supported by incredible mentors.
+
+This internship challenged us to build a full data pipeline—handling data cleaning, exploratory analysis, predictive modeling, and designing strategic recommendations for learner retention.
+
+---
+
+## 🗂️ Repository Structure
+
+```
+.
+
+├── Presentation.pdf                                  # Final presentation slides
+├── Comprehensive Report.pdf                          # A complete detailed documentation of the work done through the entire internship.
+├── excelerate internship code file                   # Week-wise tasks merged code file
+
+```
+
+---
+
+## 📅 Weekly Timeline & Contributions
+
+### 🧹 Week 1 – Data Cleaning & Feature Engineering
+- Cleaned over 8,500 learner records using Python and Pandas.
+- Handled missing values, inconsistent dates, text normalization, and duplicates.
+- Engineered features: age, engagement duration, time in opportunity, signup patterns, and gender encoding.
+
+### 📊 Week 2 – Exploratory Data Analysis (EDA)
+- Visualized signup and completion trends using heatmaps, line graphs, and box plots.
+- Identified behavioral patterns based on age, gender, and opportunity types.
+- Uncovered weak-to-moderate correlations between engagement and demographic factors.
+
+### 🤖 Week 3 – Churn Prediction Modeling
+- Built models using **Logistic Regression** and **Random Forest**.
+- Random Forest achieved better recall (30%) for churn detection, crucial for early intervention.
+- Identified top churn predictors: low engagement, young age, late signups, and internship type.
+
+### 🎯 Week 4 – Strategy Design & Recommendation System
+- Developed a rule-based recommendation engine to reduce churn:
+  - Mentorship for low-engagement or younger users
+  - Onboarding nudges for last-minute joiners
+  - Weekly prompts and region-based customization
+- Delivered a strategic presentation showcasing impact-driven interventions.
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| **Python (Pandas, Scikit-learn)** | Data preprocessing, EDA, modeling |
+| **Matplotlib & Seaborn** | Data visualization |
+| **Google Colab** | Code development & collaboration |
+| **Google Slides & Sheets** | Reporting and team coordination |
+| **Rule-based Logic** | Recommendation system development |
+
+---
+
+## 💡 Key Takeaways
+
+✔ Built a complete machine learning pipeline using real-world data  
+✔ Strengthened skills in EDA, feature engineering, and model interpretation  
+✔ Designed scalable strategies to address churn in digital learning platforms  
+✔ Led a remote team as a Project Lead and presented findings to stakeholders  
+
+---
+
+## 👥 Meet the Team
+
+- **Iqra Shaikh** – Project Lead  (Me !)
+- **Diya Kharel** – Team Lead   
+- **Faith Odhe** – Team Member  
+
+---
+
+## 🔐 Data Access Notice
+
+The internship data belongs to the Excelerate program and is used under educational license. Files such as reports and presentations are shared here for academic and portfolio purposes.
 
 ---
 
 
 
-## Acknowledgements
+## 🏷️ Tags
 
-This work was completed as part of my internship at **Excelerate**, under guidance from the data team. Special thanks to the project mentors for their support.
-
-
-
+**#DataScience #Internship #EDA #ChurnModeling #Python #ScikitLearn #Leadership #Excelerate #RetentionStrategies #RecommendationSystem**
