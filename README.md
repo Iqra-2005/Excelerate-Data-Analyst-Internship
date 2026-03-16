@@ -1,4 +1,4 @@
-<h1 align="center">📊 Excelerate AI-Powered Data Analysis Internship – May–June 2025 📊</h1>
+<h1 align="center">📊 Excelerate AI-Powered Data Analysis Internship - May–June 2025 📊</h1>
 
 <p align="center">
   <i>End-to-end data science experience – from raw data to churn modeling and retention strategies as Team E's Project Lead</i>
