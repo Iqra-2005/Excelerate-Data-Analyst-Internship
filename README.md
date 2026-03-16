@@ -10,7 +10,7 @@
 
 Welcome to the repository for my **AI-Powered Data Analysis Internship** with **Excelerate**, held from May to June 2025. I served as the **Project Lead** of **Team E**, working with my brilliant teammates **Diya** and **Faith**, and supported by incredible mentors.
 
-This internship challenged us to build a full data pipeline—handling data cleaning, exploratory analysis, predictive modeling, and designing strategic recommendations for learner retention.
+This internship challenged us to build a full data pipeline-handling data cleaning, exploratory analysis, predictive modeling, and designing strategic recommendations for learner retention.
 
 ---
 
