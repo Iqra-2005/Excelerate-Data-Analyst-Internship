@@ -67,10 +67,10 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ## 💡 Key Takeaways
 
-Built a complete machine learning pipeline using real-world data  
-Strengthened skills in EDA, feature engineering, and model interpretation  
-Designed scalable strategies to address churn in digital learning platforms  
-Led a remote team as a Project Lead and presented findings to stakeholders  
+- Built a complete machine learning pipeline using real-world data  
+- Strengthened skills in EDA, feature engineering, and model interpretation  
+- Designed scalable strategies to address churn in digital learning platforms  
+- Led a remote team as a Project Lead and presented findings to stakeholders  
 
 ---
 
