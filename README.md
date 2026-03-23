@@ -1,4 +1,4 @@
-<h1 align="center">📊 Excelerate AI-Powered Data Analysis Internship - May-June 2025 📊</h1>
+<h1 align="center">📊 Excelerate AI-Powered Data Analysis Internship - May-June 2025 </h1>
 
 <p align="center">
   <i>End-to-end data science experience – from raw data to churn modeling and retention strategies as Team E's Project Lead</i>
@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 Welcome to the repository for my **AI-Powered Data Analysis Internship** with **Excelerate**, held from May to June 2025. I served as the **Project Lead** of **Team E**, working with my brilliant teammates **Diya** and **Faith**, and supported by incredible mentors.
 
@@ -14,7 +14,7 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -27,7 +27,7 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ---
 
-## 📅 Weekly Timeline & Contributions
+##  Weekly Timeline & Contributions
 
 ### Week 1 – Data Cleaning & Feature Engineering
 - Cleaned over 8,500 learner records using Python and Pandas.
@@ -53,7 +53,7 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -65,7 +65,7 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ---
 
-## 💡 Key Takeaways
+##  Key Takeaways
 
 - Built a complete machine learning pipeline using real-world data  
 - Strengthened skills in EDA, feature engineering, and model interpretation  
@@ -74,7 +74,7 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ---
 
-## 👥 Meet the Team
+##  Meet the Team
 
 - **Iqra Shaikh** – Project Lead  (Me !)
 - **Diya Kharel** – Team Lead   
@@ -82,7 +82,7 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ---
 
-## 🔐 Data Access Notice
+##  Data Access Notice
 
 The internship data belongs to the Excelerate program and is used under educational license. Files such as reports and presentations are shared here for academic and portfolio purposes.
 
@@ -90,6 +90,6 @@ The internship data belongs to the Excelerate program and is used under educatio
 
 
 
-## 🏷️ Tags
+##  Tags
 
 **#DataScience #Internship #EDA #ChurnModeling #Python #ScikitLearn #Leadership #Excelerate #RetentionStrategies #RecommendationSystem**
