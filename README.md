@@ -29,22 +29,22 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ## 📅 Weekly Timeline & Contributions
 
-### 🧹 Week 1 – Data Cleaning & Feature Engineering
+### Week 1 – Data Cleaning & Feature Engineering
 - Cleaned over 8,500 learner records using Python and Pandas.
 - Handled missing values, inconsistent dates, text normalization, and duplicates.
 - Engineered features: age, engagement duration, time in opportunity, signup patterns, and gender encoding.
 
-### 📊 Week 2 – Exploratory Data Analysis (EDA)
+### Week 2 – Exploratory Data Analysis (EDA)
 - Visualized signup and completion trends using heatmaps, line graphs, and box plots.
 - Identified behavioral patterns based on age, gender, and opportunity types.
 - Uncovered weak-to-moderate correlations between engagement and demographic factors.
 
-### 🤖 Week 3 – Churn Prediction Modeling
+### Week 3 – Churn Prediction Modeling
 - Built models using **Logistic Regression** and **Random Forest**.
 - Random Forest achieved better recall (30%) for churn detection, crucial for early intervention.
 - Identified top churn predictors: low engagement, young age, late signups, and internship type.
 
-### 🎯 Week 4 – Strategy Design & Recommendation System
+### Week 4 – Strategy Design & Recommendation System
 - Developed a rule-based recommendation engine to reduce churn:
   - Mentorship for low-engagement or younger users
   - Onboarding nudges for last-minute joiners
@@ -67,10 +67,10 @@ This internship challenged us to build a full data pipeline-handling data cleani
 
 ## 💡 Key Takeaways
 
-✔ Built a complete machine learning pipeline using real-world data  
-✔ Strengthened skills in EDA, feature engineering, and model interpretation  
-✔ Designed scalable strategies to address churn in digital learning platforms  
-✔ Led a remote team as a Project Lead and presented findings to stakeholders  
+Built a complete machine learning pipeline using real-world data  
+Strengthened skills in EDA, feature engineering, and model interpretation  
+Designed scalable strategies to address churn in digital learning platforms  
+Led a remote team as a Project Lead and presented findings to stakeholders  
 
 ---
 
